@@ -1,0 +1,22 @@
+.img
+{
+    display: block;
+    max-width: 100%;
+    height: auto;
+    
+}
+table,th{
+    background-color: coral;
+    column-rule-color: darkgreen;
+    border-block-end-color: blue;
+
+    
+}
+div{
+    top: 800px;
+} 
+td{
+background-color: aliceblue;
+color-adjust: initial;
+
+}
